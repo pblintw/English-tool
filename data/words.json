@@ -1,0 +1,280 @@
+{
+  "practice": {
+    "translation": "練習、實踐",
+    "breakdown": {
+      "root": "pract-",
+      "rootMeaning": "做、實行",
+      "suffix": "-ice",
+      "suffixMeaning": "名詞字尾，表示行為或狀態"
+    },
+    "association": "practice = 做的行為 = 練習",
+    "family": ["practical", "practically", "practitioner", "impractical", "malpractice"]
+  },
+  "understand": {
+    "translation": "理解、明白",
+    "breakdown": {
+      "prefix": "under-",
+      "prefixMeaning": "在...之下",
+      "root": "stand",
+      "rootMeaning": "站立"
+    },
+    "association": "站在事物之下仔細觀察 = 理解",
+    "family": ["understanding", "misunderstand", "understandable", "misunderstanding"]
+  },
+  "build": {
+    "translation": "建造、建立",
+    "breakdown": {
+      "root": "build",
+      "rootMeaning": "建造（古英語 byldan）"
+    },
+    "association": "用磚塊一層層堆起 = 建造",
+    "family": ["builder", "building", "rebuild", "built"]
+  },
+  "tool": {
+    "translation": "工具",
+    "breakdown": {
+      "root": "tool",
+      "rootMeaning": "工具（古英語 tōl）"
+    },
+    "association": "手中的器具幫助完成任務 = 工具",
+    "family": ["toolkit", "toolbox", "tooling"]
+  },
+  "daily": {
+    "translation": "每天的、日常的",
+    "breakdown": {
+      "root": "day",
+      "rootMeaning": "日、天",
+      "suffix": "-ly",
+      "suffixMeaning": "副詞/形容詞字尾"
+    },
+    "association": "每一天 = 日常的",
+    "family": ["day", "today", "everyday", "daylight"]
+  },
+  "english": {
+    "translation": "英語、英文",
+    "breakdown": {
+      "root": "Engl-",
+      "rootMeaning": "來自 Angles（盎格魯人）",
+      "suffix": "-ish",
+      "suffixMeaning": "表示語言或民族"
+    },
+    "association": "盎格魯人的語言 = 英語",
+    "family": ["England", "Englishman"]
+  },
+  "small": {
+    "translation": "小的",
+    "breakdown": {
+      "root": "small",
+      "rootMeaning": "小（古英語 smæl）"
+    },
+    "association": "體積或程度不大 = 小的",
+    "family": ["smaller", "smallest", "smallish"]
+  },
+  "want": {
+    "translation": "想要、需要",
+    "breakdown": {
+      "root": "want",
+      "rootMeaning": "缺乏、想要（古諾爾斯語 vanta）"
+    },
+    "association": "心中缺少某樣東西 = 想要",
+    "family": ["wanted", "wanting", "unwanted"]
+  },
+  "communication": {
+    "translation": "溝通、通訊",
+    "breakdown": {
+      "prefix": "com-",
+      "prefixMeaning": "共同、一起",
+      "root": "munic-",
+      "rootMeaning": "分享（拉丁語 munus = 禮物、服務）",
+      "suffix": "-ation",
+      "suffixMeaning": "名詞字尾，表示行為或過程"
+    },
+    "association": "共同分享訊息 = 溝通",
+    "family": ["communicate", "communicative", "communicator", "telecommunication"]
+  },
+  "important": {
+    "translation": "重要的",
+    "breakdown": {
+      "prefix": "im-",
+      "prefixMeaning": "進入（in- 的變體）",
+      "root": "port-",
+      "rootMeaning": "攜帶（拉丁語 portare）",
+      "suffix": "-ant",
+      "suffixMeaning": "形容詞字尾"
+    },
+    "association": "被帶進來重視的 = 重要的",
+    "family": ["importance", "importantly", "unimportant"]
+  },
+  "improve": {
+    "translation": "改善、進步",
+    "breakdown": {
+      "prefix": "im-",
+      "prefixMeaning": "進入",
+      "root": "prove",
+      "rootMeaning": "證明、變好（拉丁語 probus = 好的）"
+    },
+    "association": "使變得更好 = 改善",
+    "family": ["improvement", "improved", "improving"]
+  },
+  "learning": {
+    "translation": "學習",
+    "breakdown": {
+      "root": "learn",
+      "rootMeaning": "學習（古英語 leornian）",
+      "suffix": "-ing",
+      "suffixMeaning": "動名詞/現在分詞字尾"
+    },
+    "association": "獲取知識的過程 = 學習",
+    "family": ["learn", "learner", "learned", "unlearn"]
+  },
+  "vocabulary": {
+    "translation": "詞彙、字彙",
+    "breakdown": {
+      "root": "vocab-",
+      "rootMeaning": "詞、聲音（拉丁語 vocare = 呼叫）",
+      "suffix": "-ulary",
+      "suffixMeaning": "名詞字尾，表示集合"
+    },
+    "association": "所有詞彙的集合 = 字彙",
+    "family": ["vocab", "vocal", "voice", "invoke"]
+  },
+  "pronunciation": {
+    "translation": "發音",
+    "breakdown": {
+      "prefix": "pro-",
+      "prefixMeaning": "向前",
+      "root": "nunci-",
+      "rootMeaning": "宣告、說（拉丁語 nuntiare）",
+      "suffix": "-ation",
+      "suffixMeaning": "名詞字尾"
+    },
+    "association": "向前說出聲音 = 發音",
+    "family": ["pronounce", "announced", "announcement", "renounce"]
+  },
+  "sentence": {
+    "translation": "句子、判決",
+    "breakdown": {
+      "root": "sent-",
+      "rootMeaning": "感覺、意見（拉丁語 sentire）",
+      "suffix": "-ence",
+      "suffixMeaning": "名詞字尾"
+    },
+    "association": "表達完整意思的語句 = 句子",
+    "family": ["sentential", "sentiment", "sense"]
+  },
+  "opportunity": {
+    "translation": "機會、時機",
+    "breakdown": {
+      "prefix": "op-",
+      "prefixMeaning": "朝向（ob- 的變體）",
+      "root": "port-",
+      "rootMeaning": "港口、門（拉丁語 portus）",
+      "suffix": "-unity",
+      "suffixMeaning": "名詞字尾，表示狀態"
+    },
+    "association": "船駛向港口的時機 = 機會來臨",
+    "family": ["opportune", "opportunist", "opportunistic", "inopportune"]
+  },
+  "contribute": {
+    "translation": "貢獻、捐助",
+    "breakdown": {
+      "prefix": "con-",
+      "prefixMeaning": "共同、一起",
+      "root": "tribut-",
+      "rootMeaning": "給予、分配（拉丁語 tribuere）"
+    },
+    "association": "共同給予力量 = 貢獻",
+    "family": ["contribution", "contributor", "contributory", "distribute", "tribute"]
+  },
+  "society": {
+    "translation": "社會、社團",
+    "breakdown": {
+      "root": "soci-",
+      "rootMeaning": "同伴、結合（拉丁語 socius）",
+      "suffix": "-ety",
+      "suffixMeaning": "名詞字尾，表示狀態或集體"
+    },
+    "association": "人們結合在一起的群體 = 社會",
+    "family": ["social", "socialize", "sociology", "antisocial", "associate"]
+  },
+  "girl": {
+    "translation": "女孩",
+    "breakdown": {
+      "root": "girl",
+      "rootMeaning": "年輕女性（中古英語 girle，原指年輕人）"
+    },
+    "association": "年輕的女性 = 女孩",
+    "family": ["girls", "girlhood", "girlfriend", "girlish"]
+  },
+  "look": {
+    "translation": "看、注視",
+    "breakdown": {
+      "root": "look",
+      "rootMeaning": "看（古英語 lōcian）"
+    },
+    "association": "用眼睛觀察 = 看",
+    "family": ["looking", "looked", "outlook", "overlook", "lookout"]
+  },
+  "billboard": {
+    "translation": "廣告看板",
+    "breakdown": {
+      "root": "bill",
+      "rootMeaning": "告示、帳單",
+      "suffix": "board",
+      "suffixMeaning": "板子"
+    },
+    "association": "張貼告示的大板子 = 廣告看板",
+    "family": ["bill", "board", "bulletin", "signboard"]
+  },
+  "magazine": {
+    "translation": "雜誌、彈匣",
+    "breakdown": {
+      "root": "magaz-",
+      "rootMeaning": "倉庫、儲藏（阿拉伯語 makhazin）",
+      "suffix": "-ine",
+      "suffixMeaning": "名詞字尾"
+    },
+    "association": "儲存各種文章的地方 = 雜誌",
+    "family": ["magazines", "mag"]
+  },
+  "cover": {
+    "translation": "封面、覆蓋",
+    "breakdown": {
+      "root": "cover",
+      "rootMeaning": "覆蓋（拉丁語 cooperire = co + operire 蓋住）"
+    },
+    "association": "蓋在上面的東西 = 封面/覆蓋",
+    "family": ["coverage", "covering", "discover", "recover", "uncover"]
+  },
+  "reflection": {
+    "translation": "反射、倒影、反思",
+    "breakdown": {
+      "prefix": "re-",
+      "prefixMeaning": "返回、再次",
+      "root": "flect-",
+      "rootMeaning": "彎曲（拉丁語 flectere）",
+      "suffix": "-ion",
+      "suffixMeaning": "名詞字尾"
+    },
+    "association": "光線彎曲返回 = 反射；思緒返回檢視 = 反思",
+    "family": ["reflect", "reflective", "reflector", "deflect", "inflect"]
+  },
+  "see": {
+    "translation": "看見、理解",
+    "breakdown": {
+      "root": "see",
+      "rootMeaning": "看見（古英語 sēon）"
+    },
+    "association": "用眼睛感知 = 看見",
+    "family": ["seen", "seeing", "seer", "sight", "oversee", "foresee"]
+  },
+  "own": {
+    "translation": "自己的、擁有",
+    "breakdown": {
+      "root": "own",
+      "rootMeaning": "擁有（古英語 āgen）"
+    },
+    "association": "屬於自己的 = 自己的",
+    "family": ["owner", "ownership", "owned", "disown"]
+  }
+}
